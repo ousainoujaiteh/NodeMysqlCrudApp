@@ -1,0 +1,1 @@
+This is simple CRUD application for Vuejs, Mysql and ExpressJs
